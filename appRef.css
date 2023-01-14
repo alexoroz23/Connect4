@@ -1,4 +1,4 @@
- /* game board table */
+/* game board table */
 
 #board td {
     height:60px; 
@@ -22,14 +22,6 @@
     width: 80%;
     height: 80%;
   } 
-  
-  .piece.p1 {
-    background-color: red;
-  }
-  
-  .piece.p2 {
-    background-color: yellow;
-  }
   
   /* column-top is table row of clickable areas for each column */
   
